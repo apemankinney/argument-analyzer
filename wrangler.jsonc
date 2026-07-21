@@ -1,0 +1,16 @@
+{
+	"compatibility_date": "2025-10-08",
+	"main": "src/index.ts",
+	"name": "argument-analyzer",
+	"upload_source_maps": true,
+	"observability": {
+		"enabled": true
+	},
+	"d1_databases": [
+		{
+			"binding": "DB",
+			"database_name": "argument-analyze-d1",
+			"database_id": "918737a4-f1c0-4b3e-84ca-5c95872f5f64"
+		}
+	]
+}
